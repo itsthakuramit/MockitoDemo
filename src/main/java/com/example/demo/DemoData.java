@@ -13,6 +13,7 @@ public class DemoData
 		carList.add("Ertiga");
 		carList.add("Lamborgini");
 		carList.add("Ferrari");
+		carList.add("alto");
 	}
 	
 	
